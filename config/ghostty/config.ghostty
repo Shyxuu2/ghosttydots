@@ -1,0 +1,6 @@
+font-family = Jetbrains Mono Nerd
+theme = Pinky Vibes
+window-height = 25
+window-width = 125
+background-image = custom/wallpaperterminal.png
+custom-shader = shaders/cursor_warp.glsl
